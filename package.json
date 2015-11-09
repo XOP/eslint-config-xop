@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-xop",
+  "version": "1.0.0",
+  "description": "shareable ESLint config",
+  "main": "eslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XOP/eslint-config-xop.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "eslint-config",
+    "eslint config"
+  ],
+  "author": "Evgeny Khoroshilov <stewiekillsloiss@gmail.com> (https://github.com/XOP)",
+  "bugs": {
+    "url": "https://github.com/XOP/eslint-config-xop/issues"
+  },
+  "homepage": "https://github.com/XOP/eslint-config-xop#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-strip-json-comments": "^1.0.2"
+  }
+}

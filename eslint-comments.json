@@ -7,10 +7,10 @@
     },
 
     "rules": {
-        
+        // possible errors
         "no-console": 0,
 
-        
+        // best practicies
         "curly": 2,
         "eqeqeq": 2,
         "no-eval": 2,
@@ -39,18 +39,18 @@
         "wrap-iife": [2, "inside"],
         "yoda": 2,
 
-        
+        // variables
         "no-shadow-restricted-names": 2,
         "no-undef": 2,
         "no-undefined": 2,
         "no-use-before-define": [2, "nofunc"],
 
-        
+        // node.js and common.js
         "global-require": 2,
         "handle-callback-err": [2, "^(err|error)$"],
         "no-path-concat": 2,
 
-        
+        // stylistic issues
         "block-spacing": [2, "always"],
         "brace-style": [2, "stroustrup", {
             "allowSingleLine": false
