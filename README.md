@@ -1,5 +1,7 @@
 # ESLint config XOP
 
+[![npm version](https://badge.fury.io/js/eslint-config-xop.svg)](https://www.npmjs.com/package/eslint-config-xop)
+
 > Shareable ESLint config
 
 
