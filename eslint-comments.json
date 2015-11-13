@@ -52,7 +52,7 @@
 
         // stylistic issues
         "block-spacing": [2, "always"],
-        "brace-style": [2, "stroustrup", {
+        "brace-style": [2, "1tbs", {
             "allowSingleLine": false
         }],
         "camelcase": 1,
@@ -63,7 +63,7 @@
         "comma-style": [2, "last"],
         "computed-property-spacing": [2, "never"],
         "eol-last": 2,
-        "indent": 2,
+        "indent": [2, 4, {"SwitchCase": 1}],
         "jsx-quotes": [2, "prefer-double"],
         "key-spacing": [2, {
             "beforeColon": false,

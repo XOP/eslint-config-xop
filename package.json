@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xop",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "shareable ESLint config",
   "main": "eslint.json",
   "scripts": {
