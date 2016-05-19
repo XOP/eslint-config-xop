@@ -2,12 +2,13 @@
 
 [![npm version](https://badge.fury.io/js/eslint-config-xop.svg)](https://www.npmjs.com/package/eslint-config-xop)
 
-> Shareable ESLint config
+> Shareable ESLint config  
+> Compatible with [2.0.0](http://eslint.org/docs/user-guide/migrating-to-2.0.0)
 
 
 ## About
 
-Current config extends recommended settings,
+Current config extends recommended settings,  
 lints ES5 and below and does not require any dependencies.
 
 
